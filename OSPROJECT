@@ -20,7 +20,7 @@ void main()
 	char ans;
 
 	printf("\n\n -------------------------------------------------\n\n");
-	printf("\n                 PAGING ASSIGNMENT");
+	printf("\n                 PAGING ASSIGNMENT CHECK");
 
 	do
 	{
